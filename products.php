@@ -147,13 +147,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					</form>
 				</div>
 			</div>
-			<div class="cart cart box_1"> 
-				<form action="#" method="post" class="last"> 
-					<input type="hidden" name="cmd" value="_cart" />
-					<input type="hidden" name="display" value="1" />
-					<button class="w3view-cart" type="submit" name="submit" value=""><i class="fa fa-cart-arrow-down" aria-hidden="true"></i></button>
-				</form>   
-			</div>  
+			 
 		</div>
 	</div>
 	<!-- //header -->
@@ -249,107 +243,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	<div class="mobiles">
 		<div class="container">
 			<div class="w3ls_mobiles_grids">
-				<div class="col-md-4 w3ls_mobiles_grid_left">
-					<div class="w3ls_mobiles_grid_left_grid">
-						<h3>Categories</h3>
-						<div class="w3ls_mobiles_grid_left_grid_sub">
-							<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-							  <div class="panel panel-default">
-								<div class="panel-heading" role="tab" id="headingOne">
-								  <h4 class="panel-title asd">
-									<a class="pa_italic" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									  <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i>New Arrivals
-									</a>
-								  </h4>
-								</div>
-								<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-								  <div class="panel-body panel_text">
-									<ul>
-										<li><a href="products.html">Mobiles</a></li>
-										<li><a href="products1.html">Laptop</a></li>
-										<li><a href="products2.html">Tv</a></li>
-										<li><a href="products.html">Wearables</a></li>
-										<li><a href="products2.html">Refrigerator</a></li>
-									</ul>
-								  </div>
-								</div>
-							  </div>
-							  <div class="panel panel-default">
-								<div class="panel-heading" role="tab" id="headingTwo">
-								  <h4 class="panel-title asd">
-									<a class="pa_italic collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-									  <span class="glyphicon glyphicon-plus" aria-hidden="true"></span><i class="glyphicon glyphicon-minus" aria-hidden="true"></i>Accessories
-									</a>
-								  </h4>
-								</div>
-								<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-								   <div class="panel-body panel_text">
-									<ul>
-										<li><a href="products2.html">Grinder</a></li>
-										<li><a href="products2.html">Heater</a></li>
-										<li><a href="products2.html">Kid's Toys</a></li>
-										<li><a href="products2.html">Filters</a></li>
-										<li><a href="products2.html">AC</a></li>
-									</ul>
-								  </div>
-								</div>
-							  </div>
-							</div>
-							<ul class="panel_bottom">
-								<li><a href="products.html">Summer Store</a></li>
-								<li><a href="products.html">Featured Brands</a></li>
-								<li><a href="products.html">Today's Deals</a></li>
-								<li><a href="products.html">Latest Watches</a></li>
-							</ul>
-						</div>
-					</div>
-					<div class="w3ls_mobiles_grid_left_grid">
-						<h3>Color</h3>
-						<div class="w3ls_mobiles_grid_left_grid_sub">
-							<div class="ecommerce_color">
-								<ul>
-									<li><a href="#"><i></i> Red(5)</a></li>
-									<li><a href="#"><i></i> Brown(2)</a></li>
-									<li><a href="#"><i></i> Yellow(3)</a></li>
-									<li><a href="#"><i></i> Violet(6)</a></li>
-									<li><a href="#"><i></i> Orange(2)</a></li>
-									<li><a href="#"><i></i> Blue(1)</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="w3ls_mobiles_grid_left_grid">
-						<h3>Price</h3>
-						<div class="w3ls_mobiles_grid_left_grid_sub">
-							<div class="ecommerce_color ecommerce_size">
-								<ul>
-									<li><a href="#">Below $ 100</a></li>
-									<li><a href="#">$ 100-500</a></li>
-									<li><a href="#">$ 1k-10k</a></li>
-									<li><a href="#">$ 10k-20k</a></li>
-									<li><a href="#">$ Above 20k</a></li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-8 w3ls_mobiles_grid_right">
-					<div class="col-md-6 w3ls_mobiles_grid_right_left">
-						<div class="w3ls_mobiles_grid_right_grid1">
-							<img src="images/46.jpg" alt=" " class="img-responsive" />
-							<div class="w3ls_mobiles_grid_right_grid1_pos1">
-								<h3>Smart Phones<span>Up To</span> 15% Discount</h3>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6 w3ls_mobiles_grid_right_left">
-						<div class="w3ls_mobiles_grid_right_grid1">
-							<img src="images/47.jpg" alt=" " class="img-responsive" />
-							<div class="w3ls_mobiles_grid_right_grid1_pos">
-								<h3>Top 10 Latest<span>Mobile </span>& Accessories</h3>
-							</div>
-						</div>
-					</div>
+				
+				<div class="col-md-12 w3ls_mobiles_grid_right">
+					
+					
 					<div class="clearfix"> </div>
 
 					<div class="w3ls_mobiles_grid_right_grid2">
@@ -393,7 +290,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Smart Phone" /> 
 										<input type="hidden" name="amount" value="245.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 								<div class="mobiles_grid_pos">
@@ -425,7 +322,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Audio-speaker" /> 
 										<input type="hidden" name="amount" value="45.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -454,7 +351,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Red Mobile" /> 
 										<input type="hidden" name="amount" value="65.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -486,7 +383,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Headphone"/> 
 										<input type="hidden" name="amount" value="245.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -515,7 +412,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Wireless Speaker" /> 
 										<input type="hidden" name="amount" value="86.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -544,7 +441,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Asus Tablet" /> 
 										<input type="hidden" name="amount" value="425.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 								<div class="mobiles_grid_pos">
@@ -579,7 +476,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Ultra MP3 Player" /> 
 										<input type="hidden" name="amount" value="58.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 								<div class="mobiles_grid_pos">
@@ -611,7 +508,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Golden Tablet" /> 
 										<input type="hidden" name="amount" value="550.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -640,7 +537,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 										<input type="hidden" name="add" value="1" /> 
 										<input type="hidden" name="w3ls_item" value="Wireless Phone" /> 
 										<input type="hidden" name="amount" value="210.00"/>   
-										<button type="submit" class="w3ls-cart">Add to cart</button>
+										
 									</form>
 								</div> 
 							</div>
@@ -697,7 +594,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1" /> 
 									<input type="hidden" name="w3ls_item" value="Smart Phone" /> 
 									<input type="hidden" name="amount" value="245.00"/>   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div> 	
 							<h5>Color</h5>
@@ -761,7 +658,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1"> 
 									<input type="hidden" name="w3ls_item" value="Kids Toy"> 
 									<input type="hidden" name="amount" value="100.00">   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div>
 							<h5>Color</h5>
@@ -821,7 +718,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1"> 
 									<input type="hidden" name="w3ls_item" value="Vacuum Cleaner"> 
 									<input type="hidden" name="amount" value="920.00">   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div>
 							<h5>Color</h5>
@@ -885,7 +782,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1" /> 
 									<input type="hidden" name="w3ls_item" value="MP3 Player" /> 
 									<input type="hidden" name="amount" value="58.00"/>   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div>
 							<h5>Color</h5>
@@ -949,7 +846,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1"> 
 									<input type="hidden" name="w3ls_item" value="Microwave Oven"> 
 									<input type="hidden" name="amount" value="645.00">   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div>
 							<h5>Color</h5>
@@ -1013,7 +910,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<input type="hidden" name="add" value="1" /> 
 									<input type="hidden" name="w3ls_item" value="Latest Tablet" /> 
 									<input type="hidden" name="amount" value="425.00" />   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
+									
 								</form>
 							</div>
 							<h5>Color</h5>
@@ -1032,217 +929,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			</div>
 		</div>
 	</div>  
-	<!-- Related Products -->
-	<div class="w3l_related_products">
-		<div class="container">
-			<h3>Related Products</h3>
-			<ul id="flexiselDemo2">			
-				<li>
-					<div class="w3l_related_products_grid">
-						<div class="agile_ecommerce_tab_left mobiles_grid">
-							<div class="hs-wrapper hs-wrapper3">
-								<img src="images/34.jpg" alt=" " class="img-responsive" />
-								<img src="images/35.jpg" alt=" " class="img-responsive" />
-								<img src="images/27.jpg" alt=" " class="img-responsive" />
-								<img src="images/28.jpg" alt=" " class="img-responsive" />
-								<img src="images/37.jpg" alt=" " class="img-responsive" /> 
-								<div class="w3_hs_bottom">
-									<div class="flex_ecommerce">
-										<a href="#" data-toggle="modal" data-target="#myModal6"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-									</div>
-								</div>
-							</div>
-							<h5><a href="single.html">Kid's Toy</a></h5>
-							<div class="simpleCart_shelfItem"> 
-								<p class="flexisel_ecommerce_cart"><span>$150</span> <i class="item_price">$100</i></p>
-								<form action="#" method="post">
-									<input type="hidden" name="cmd" value="_cart">
-									<input type="hidden" name="add" value="1"> 
-									<input type="hidden" name="w3ls_item" value="Kid's Toy"> 
-									<input type="hidden" name="amount" value="100.00">   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
-								</form> 
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3l_related_products_grid">
-						<div class="agile_ecommerce_tab_left mobiles_grid">
-							<div class="hs-wrapper hs-wrapper3">
-								<img src="images/36.jpg" alt=" " class="img-responsive" />
-								<img src="images/32.jpg" alt=" " class="img-responsive" />
-								<img src="images/33.jpg" alt=" " class="img-responsive" />
-								<img src="images/32.jpg" alt=" " class="img-responsive" />
-								<img src="images/36.jpg" alt=" " class="img-responsive" /> 
-								<div class="w3_hs_bottom">
-									<div class="flex_ecommerce">
-										<a href="#" data-toggle="modal" data-target="#myModal5"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-									</div>
-								</div>
-							</div>
-							<h5><a href="single.html">Vacuum Cleaner</a></h5>
-							<div class="simpleCart_shelfItem">
-								<p class="flexisel_ecommerce_cart"><span>$960</span> <i class="item_price">$920</i></p>
-								<form action="#" method="post">
-									<input type="hidden" name="cmd" value="_cart" />
-									<input type="hidden" name="add" value="1" /> 
-									<input type="hidden" name="w3ls_item" value="Vacuum Cleaner" /> 
-									<input type="hidden" name="amount" value="920.00"/>   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
-								</form>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3l_related_products_grid">
-						<div class="agile_ecommerce_tab_left mobiles_grid">
-							<div class="hs-wrapper hs-wrapper3">
-								<img src="images/38.jpg" alt=" " class="img-responsive" />
-								<img src="images/37.jpg" alt=" " class="img-responsive" />
-								<img src="images/27.jpg" alt=" " class="img-responsive" />
-								<img src="images/28.jpg" alt=" " class="img-responsive" />
-								<img src="images/37.jpg" alt=" " class="img-responsive" /> 
-								<div class="w3_hs_bottom">
-									<div class="flex_ecommerce">
-										<a href="#" data-toggle="modal" data-target="#myModal3"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-									</div>
-								</div>
-							</div>
-							<h5><a href="single.html">Microwave Oven</a></h5>
-							<div class="simpleCart_shelfItem">
-								<p class="flexisel_ecommerce_cart"><span>$650</span> <i class="item_price">$645</i></p>
-								<form action="#" method="post">
-									<input type="hidden" name="cmd" value="_cart" />
-									<input type="hidden" name="add" value="1" /> 
-									<input type="hidden" name="w3ls_item" value="Microwave Oven" /> 
-									<input type="hidden" name="amount" value="645.00"/>   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
-								</form>
-							</div>
-						</div>
-					</div>
-				</li>
-				<li>
-					<div class="w3l_related_products_grid">
-						<div class="agile_ecommerce_tab_left mobiles_grid">
-							<div class="hs-wrapper hs-wrapper3">
-								<img src="images/p3.jpg" alt=" " class="img-responsive" />
-								<img src="images/p5.jpg" alt=" " class="img-responsive" />
-								<img src="images/p4.jpg" alt=" " class="img-responsive" />
-								<img src="images/p2.jpg" alt=" " class="img-responsive" />
-								<img src="images/p1.jpg" alt=" " class="img-responsive" /> 
-								<div class="w3_hs_bottom">
-									<div class="flex_ecommerce">
-										<a href="#" data-toggle="modal" data-target="#myModal4"><span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span></a>
-									</div>
-								</div>
-							</div>
-							<h5><a href="single.html">Music MP3 Player</a></h5>
-							<div class="simpleCart_shelfItem">
-								<p><span>$60</span> <i class="item_price">$58</i></p>
-								<form action="#" method="post">
-									<input type="hidden" name="cmd" value="_cart" />
-									<input type="hidden" name="add" value="1" /> 
-									<input type="hidden" name="w3ls_item" value="Ultra MP3 Player" /> 
-									<input type="hidden" name="amount" value="58.00"/>   
-									<button type="submit" class="w3ls-cart">Add to cart</button>
-								</form>
-							</div> 
-							<div class="mobiles_grid_pos">
-								<h6>New</h6>
-							</div>
-						</div> 
-					</div>
-				</li>
-			</ul>
-			
-				
-		</div>
-	</div>
-	<!-- //Related Products -->
-	<!-- newsletter -->
-	<div class="newsletter">
-		<div class="container">
-			<div class="col-md-6 w3agile_newsletter_left">
-				<h3>Newsletter</h3>
-				<p>Excepteur sint occaecat cupidatat non proident sunt.</p>
-			</div>
-			<div class="col-md-6 w3agile_newsletter_right">
-				<form action="#" method="post">
-					<input type="email" name="Email" placeholder="Email" required="">
-					<input type="submit" value="" />
-				</form>
-			</div>
-			<div class="clearfix"> </div>
-		</div>
-	</div>
-	<!-- //newsletter -->
-	<!-- footer -->
-	<div class="footer">
-		<div class="container">
-			<div class="w3_footer_grids">
-				<div class="col-md-3 w3_footer_grid">
-					<h3>Contact</h3>
-					<p>Duis aute irure dolor in reprehenderit in voluptate velit esse.</p>
-					<ul class="address">
-						<li><i class="glyphicon glyphicon-map-marker" aria-hidden="true"></i>1234k Avenue, 4th block, <span>New York City.</span></li>
-						<li><i class="glyphicon glyphicon-envelope" aria-hidden="true"></i><a href="mailto:info@example.com">info@example.com</a></li>
-						<li><i class="glyphicon glyphicon-earphone" aria-hidden="true"></i>+1234 567 567</li>
-					</ul>
-				</div>
-				<div class="col-md-3 w3_footer_grid">
-					<h3>Information</h3>
-					<ul class="info"> 
-						<li><a href="about.html">About Us</a></li>
-						<li><a href="mail.html">Contact Us</a></li>
-						<li><a href="codes.html">Short Codes</a></li>
-						<li><a href="faq.html">FAQ's</a></li>
-						<li><a href="products.html">Special Products</a></li>
-					</ul>
-				</div>
-				<div class="col-md-3 w3_footer_grid">
-					<h3>Category</h3>
-					<ul class="info"> 
-						<li><a href="products.html">Mobiles</a></li>
-						<li><a href="products1.html">Laptops</a></li>
-						<li><a href="products.html">Purifiers</a></li>
-						<li><a href="products1.html">Wearables</a></li>
-						<li><a href="products2.html">Kitchen</a></li>
-					</ul>
-				</div>
-				<div class="col-md-3 w3_footer_grid">
-					<h3>Profile</h3>
-					<ul class="info"> 
-						<li><a href="index.html">Home</a></li>
-						<li><a href="products.html">Today's Deals</a></li>
-					</ul>
-					<h4>Follow Us</h4>
-					<div class="agileits_social_button">
-						<ul>
-							<li><a href="#" class="facebook"> </a></li>
-							<li><a href="#" class="twitter"> </a></li>
-							<li><a href="#" class="google"> </a></li>
-							<li><a href="#" class="pinterest"> </a></li>
-						</ul>
-					</div>
-				</div>
-				<div class="clearfix"> </div>
-			</div>
-		</div>
-		<div class="footer-copy">
-			<div class="footer-copy1">
-				<div class="footer-copy-pos">
-					<a href="#home1" class="scroll"><img src="images/arrow.png" alt=" " class="img-responsive" /></a>
-				</div>
-			</div>
-			<div class="container">
-				<p>&copy; 2017 Electronic Store. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
-			</div>
-		</div>
-	</div>
-	<!-- //footer -->  
+
+<?php include "footer.php" ?>
+
+  
 	<script type="text/javascript">
 		$(window).load(function() {
 			$("#flexiselDemo2").flexisel({
