@@ -15,8 +15,6 @@
 			</ul>
 		</div>
 	</div>
-	<!-- //breadcrumbs --> 
-	<!-- mail -->
 	<div class="mail">
 		<div class="container">
 			<h3>Mail Us</h3>
