@@ -1,12 +1,11 @@
-/*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
---*/
+#mihir{
+background-color: #232f3e;
+
+}
 html, body{
-    font-size: 100%;
-	background:	#fff;
+ i   font-size: 100%;
+ 
+
 	font-family:'Open Sans', sans-serif;
 }
 p{
@@ -33,6 +32,9 @@ input[type="submit"],.panel-body ul li a,.checkout-right-basket a,.additional_in
 }
 .header {
     padding: 2em 0 0;
+
+       /*background-image: url(../images/mesh.gif); */
+ 
 }
 .w3l_login{
 	float:left;
@@ -101,6 +103,7 @@ label.icon-search {
 }
 .search_form input[type='text']{
 	width: 380px;
+
     padding: 10px;
     outline: none;
     font-size: 14px;
@@ -131,7 +134,7 @@ label.icon-search {
 }
 .search_box:checked~.search_form{
     width: 500px;
-    height: 62px;
+  height:100px;
     padding: 10px;
     top: 44px;
 	transition: height 0.2s ease-out, top 0.2s ease-out, padding 0.2s ease-out, 0.3s width ease-out 0.2s;
