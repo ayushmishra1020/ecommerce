@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>8mm Electronics Store</title>
-<!-- for-mobile-apps -->
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>8mm Electronics Store</title>
+	<!-- for-mobile-apps -->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-<!-- //for-mobile-apps -->
-<!-- Custom Theme files -->
-<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/fasthover.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
-<!-- //Custom Theme files -->
-<!-- font-awesome icons -->
-<link href="css/font-awesome.css" rel="stylesheet"> 
-<!-- //font-awesome icons -->
-<!-- js -->
-<script src="js/jquery.min.js"></script>
-<link rel="stylesheet" href="css/jquery.countdown.css" /> <!-- countdown --> 
+	<!-- //for-mobile-apps -->
+	<!-- Custom Theme files -->
+	<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/fasthover.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- //Custom Theme files -->
+	<!-- font-awesome icons -->
+	<link href="css/font-awesome.css" rel="stylesheet"> 
+	<!-- //font-awesome icons -->
+	<!-- js -->
+	<script src="js/jquery.min.js"></script>
+	<link rel="stylesheet" href="css/jquery.countdown.css" /> <!-- countdown --> 
 </head> 
 <body>
 	<!-- for bootstrap working -->
@@ -40,12 +40,12 @@
 					</form>
 				</div>
 			</div>
-			  
+
 		</div>
 	</div>
 	<!-- //header -->
 	<!-- navigation -->
-	<div class="navigation">
+	<div class="navigation" id="mihir">
 		<div class="container">
 			<nav class="navbar navbar-default">
 				<!-- Brand and toggle get grouped for better mobile display -->
@@ -65,39 +65,46 @@
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown">Products <b class="caret"></b></a>
 							<ul class="dropdown-menu multi-column columns-3">
 								<div class="row">
+									<center><h2><u>Categories</u></h2></center>
+									<br>
 									<div class="col-sm-3">
 										<ul class="multi-column-dropdown">
-											<h6>Mobiles</h6>
-											<li><a href="products.php">Mobile Phones</a></li>
-											<li><a href="products.php">Mp3 Players <span>New</span></a></li> 
-											<li><a href="products.php">Popular Models</a></li>
-											<li><a href="products.php">All Tablets<span>New</span></a></li>
+											
+											<li><a href="product.php">Home Audio</a></li>
+											<li><a href="product.php">Speakers Home & Portable</a></li> 
+											<li><a href="product.php">Bluetooth</a></li>
+											<li><a href="product.php">Bluetooth Speakers</a></li>
 										</ul>
 									</div>
 									<div class="col-sm-3">
 										<ul class="multi-column-dropdown">
-											<h6>Accessories</h6>
-											<li><a href="products1.php">Laptop</a></li>
-											<li><a href="products1.php">Desktop</a></li>
-											<li><a href="products1.php">Wearables <span>New</span></a></li>
-											<li><a href="products1.php"><i>Summer Store</i></a></li>
+											
+											<li><a href="product.php">PS4 Games/PS3 Games /Pc Games</a></li>
+											<li><a href="product.php">Gaming Consoles</a></li>
+											<li><a href="product.php">Mobiles</a></li>
+											<li><a href="product.php">Note Counting Machine</a></li>
 										</ul>
 									</div>
-									<div class="col-sm-2">
+									<div class="col-sm-3">
 										<ul class="multi-column-dropdown">
-											<h6>Home</h6>
-											<li><a href="products2.php">Tv</a></li>
-											<li><a href="products2.php">Camera</a></li>
-											<li><a href="products2.php">AC</a></li>
-											<li><a href="products2.php">Grinders</a></li>
+											
+											<li><a href="product.php">Lifestyle Gadgets</a></li>
+											<li><a href="product.php">Mobile Covers</a></li>
+											<li><a href="product.php">Accessories</a></li>
+											<li><a href="product.php">Portable Cameras</a></li>
 										</ul>
 									</div>
-									<div class="col-sm-4">
-										<div class="w3ls_products_pos">
-											<h4>30%<i>Off/-</i></h4>
-											<img src="images/1.jpg" alt=" " class="img-responsive" />
-										</div>
+									<div class="col-sm-3">
+										<ul class="multi-column-dropdown">
+											
+											<li><a href="product.php">Karaoke Players</a></li>
+											<li><a href="product.php">Treamers</a></li>
+											<li><a href="product.php">Audio/Videos</a></li>
+											<li><a href="product.php">External/Internal Hardrives</a></li>
+											<li><a href="product.php">Media Player/DVD/Bluray Player</a></li>
+										</ul>
 									</div>
+									
 									<div class="clearfix"></div>
 								</div>
 							</ul>
